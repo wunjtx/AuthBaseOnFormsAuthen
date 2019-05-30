@@ -1,0 +1,1 @@
+﻿powershell –NonInteractive –ExecutionPolicy Unrestricted $(ProjectDir)App_Data\create-permissions.ps1
